@@ -1,11 +1,16 @@
 # roadmap
 After launch we start our first marketing campaign!
 Launching at Pump.fun at 18:00 GMT 
-
-1, Dex update, 2 Major KOLS
-2, DEX Boosts & DEX Ads
-3, Build Organic Community
-4, Trending 
+- TG and X KOLS
+- Trending 
+- Reddit Marketing 
+- 4chan Shilling
+- CMC & CG Listings Application  
+- Airdrops & Rewards 
+- Coin/Web Listings 
+- Viral Campaigns 
+- Chinese Marketing 
+- Intense Raiders
 
 LAUNCH Q4/Q1
 • Achieve 5,000 Holders
