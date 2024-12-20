@@ -1,4 +1,4 @@
-# roadmap
+# Roadmap
 After launch we start our first marketing campaign!
 Launching at Pump.fun at 18:00 GMT 
 - TG and X KOLS
